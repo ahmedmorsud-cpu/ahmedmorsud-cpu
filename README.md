@@ -1,4 +1,5 @@
 ### Hi there 👋 I am Morsud Ahmed
+<img data-importer="image" align="right" height="200" src="https://raw.githubusercontent.com/L-Malakar/L-Malakar/refs/heads/main/images/dev.gif" />
 
 ## ABOUT me
 
