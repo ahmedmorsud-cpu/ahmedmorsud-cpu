@@ -11,6 +11,10 @@
 💬 Ask me about **H.M. System** — my app demos. <br>
 ⚡ Fun fact: I'll pick up almost any `C++` thing if it means building something fun.
 
+## Morsud Ahmed
+
+<div align="center">
+
 <a href="https://www.instagram.com/__morsud__" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="32" alt="instagram" />
 </a>
