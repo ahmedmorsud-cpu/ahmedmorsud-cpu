@@ -4,9 +4,9 @@
 
 <img data-importer="image" align="right" height="200" src="https://raw.githubusercontent.com/L-Malakar/L-Malakar/refs/heads/main/images/dev.gif" />
 
-🔭 Currently building **games and web apps** — check out the playable demos below. <br>
-👯 Open to collaborating on **websites and business/product tools**. <br>
+🔭 Currently building a **H.M System** — check out the [`.exe`](https://github.com/ahmedmorsud-cpu/Hotel-Management-System/releases) demos below. <br>
+👯 Open to collaborating on **business/product tools**. <br>
 🤝 Always happy to help with or get help on **programming problems**. <br>
-🌱 Currently exploring new languages and AI-assisted dev tooling. <br>
-💬 Ask me about **LLOF** or **Hand Ninja** — my two playable game demos. <br>
-⚡ Fun fact: I'll pick up almost any language or framework if it means building something fun.
+🌱 Currently exploring `C++` and AI-assisted dev tooling. <br>
+💬 Ask me about **H.M. System** — my app demos. <br>
+⚡ Fun fact: I'll pick up almost any `C++` thing if it means building something fun.
