@@ -1,7 +1,8 @@
 ### Hi there 👋 I am Morsud Ahmed
-<img data-importer="image" align="right" height="200" src="https://raw.githubusercontent.com/L-Malakar/L-Malakar/refs/heads/main/images/dev.gif" />
 
 ## ABOUT me
+
+<img data-importer="image" align="right" height="200" src="https://raw.githubusercontent.com/L-Malakar/L-Malakar/refs/heads/main/images/dev.gif" />
 
 🔭 Currently building **games and web apps** — check out the playable demos below. <br>
 👯 Open to collaborating on **websites and business/product tools**. <br>
