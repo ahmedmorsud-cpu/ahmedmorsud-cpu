@@ -10,7 +10,7 @@
 🌱 Currently exploring `C++` and AI-assisted dev tooling. <br>
 💬 Ask me about **H.M. System** — my app demos. <br>
 ⚡ Fun fact: I'll pick up almost any `C++` thing if it means building something fun. <br>
-🚀 Support to [<img src="https://avatars.githubusercontent.com/u/261390550?v=4&size=64" width="25" valign="top" /> L Malakar](https://github.com/L-Malakar). <br>
+🚀 Support to **/** from [<img src="https://avatars.githubusercontent.com/u/261390550?v=4&size=64" width="25" valign="top" /> L Malakar](https://github.com/L-Malakar). <br>
 
 ## Morsud Ahmed
 
